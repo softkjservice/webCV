@@ -1,0 +1,3 @@
+Program napisany w języku c#.
+Umożliwia import pozycji magazynowych oraz kontrahentów z programów dosowych RIRMA oraz LEGOS do bazy danych MSSQL oprogramowania ILUO Biznes.
+Aplikacja przenosi również stany magazynowe oraz ceny zakupu, co daje możliwość automatycznego utworzenia remanentu startowego w programie ILUO Biznes.

@@ -1,0 +1,5 @@
+W pełni autorski program napisany w języku Clipper. 
+Dla każdego wyrobu oraz półwyrobu istnieje możliwość zdefiniowania receptury określającej precyzyjnie wszystkie składniki oraz wartość wynagrodzenia za wykonanie.
+Rejestracja przerobu dokonuje odpowiednich zmian ilościowych zarówno w magazynie wyrobów gotowych jak i w magazynie surowców. 
+Powiązanie przerobu z pracownikiem umożliwia automatyczne tworzenie listy płac w systemie akordowym.
+Program współpracuje z SH_Firma (fakturowanie) oraz M_Firma (magazyn).

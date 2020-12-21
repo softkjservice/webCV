@@ -1,0 +1,6 @@
+Program ListaTowarów jest interaktywną aplikacją webową.
+Prezentuje w formie tabeli zapisane w bazie towary, umożliwia szybkie wyszukiwanie, indeksowanie według dowolnej kolumny, dodawanie, edycję oraz kasowanie pozycji. 
+Nad prawidłowością wprowadzanych (edytowanych) danych czuwa rozbudowany system walidacji.
+FrontPage wykonany z wykorzystaniem bibliotek jQuery i bootstrap oraz wtyczki modal.
+Backend w języku PHP.
+Interakcja użytkownika z serwerem z wykorzystaniem techniki AJAX oraz formatu JSON

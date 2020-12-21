@@ -1,0 +1,4 @@
+Strona internetowa w technologii Responsive Web Design z wykorzystaniem biblioteki bootstrap. 
+Semantyka zgodna z HTML5. 
+Nawigacja z wykorzystaniem navbara z aktywnym klawiszem "collapse" oraz wyszukiwarką.
+Interakcja z użytkownikiem -  formularz kontaktowy.

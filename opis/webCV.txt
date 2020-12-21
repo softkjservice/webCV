@@ -1,0 +1,7 @@
+Prezentacja internetowa wykonana w technologii Single Page Application (SPA) z wykorzystaniem Framework - jQuery oraz bootstrap. 
+Poza podstawowymi informacjami typowymi dla CV daje możliwość szerszego zaprezentowania swoich dotychczasowych osiągnięć, prezentując je w formie stronicowanej tabeli z szybką wyszukiwarką.
+Każda pozycja tabeli daje dostęp do szerszego opisu projektu oraz do linków z nim związanych, np. w przypadku programistów do tekstów źródłowych na GitHubie.
+Backend w języku PHP.
+Komunikacja z serwerem z wykorzystaniem techniki AJAX oraz formatu JSON.
+Dane do tabeli i opisów pobierane z plików tekstowych dołączonych do projektu.
+Layout dedykowany głównie na smartfony.

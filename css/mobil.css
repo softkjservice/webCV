@@ -1,0 +1,149 @@
+@CHARSET "UTF-8";
+td, th{
+		 font-size: 40px;
+	}
+.classes.sFilterInput{
+		font-size: 350%;
+	}
+.paginate_button{
+		font-size: 250%;			
+	}
+.dataTables_info{
+		font-size: 50px;
+	}
+
+.dataTables_length{
+		font-size:40px;
+	}
+
+
+			
+table { 
+		  width: 100%; 
+		  border-collapse: collapse; 
+	}
+			/* Zebra striping */
+tr:nth-of-type(odd) { 
+	  background: # eee; 
+}
+th { 
+	  background: #333; 
+	  color: white; 
+	  font-weight: bold; 
+}
+td, th { 
+	  padding: 6px; 
+	  border: 1px solid #ccc; 
+	  text-align: left; 
+	  font-size: 40px;
+}
+
+input{
+	font-size: 50px;
+    color: blue;
+   
+     height:1.5em;
+    background-color: #ffffff;
+   
+}
+.form-control{
+	font-size: 50px;
+	 height: 1.5em;
+	
+}
+
+.close{
+	color: blue importent!;
+	 font-size: 60px;
+	
+}
+
+.btn-success{
+	font-size: 5em;
+	display: inline;
+	
+}
+.btn-default{
+	font-size: 5em;
+}
+	
+.displayFlex{
+	display: flex;
+}
+
+.width_05{
+	width: 50%;
+}
+.width_05:hover{
+	background-color: #1F4517;
+}
+
+.width_03{
+	min-width: 33%;
+	pudding: 10px;
+	font-size: 5em;
+	border-radius: 12px;
+	/*background-color: #A6CB9D;*/
+	background-color: black;
+	color: white;
+}
+.width_03:hover{
+	background-color: #1F4517;
+}
+
+
+.btnDodaj{
+	font-size: 5em;
+	width : 80%;
+	border-style : solid;
+	 border-color: black;
+	 border-width: 5px;
+	 background-color:#20673D;
+	 color:white;
+	 border-radius: 22px;
+}
+
+
+.modal-title{
+	font-size: 5em;
+	color : white;
+}
+.opisPola{
+	font-size: 25px;
+}
+
+.selectClass{
+	font-size:30px;
+}
+
+select{
+	font-size:50px;
+}
+
+.dataTables_filter{
+	font-size:40px;
+}
+
+.dataTables_length{
+	font-size:40px;
+}
+
+.btnZielony{
+	background-color: #20673D;
+}
+.btnTable{
+	font-size:40px;
+}
+
+.button {
+
+  display: inline-block;
+  font-size: 50px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button:hover {
+  //background-color: #4CAF50;
+  color: blue;
+}

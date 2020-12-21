@@ -1,0 +1,4 @@
+W pełni autorski program napisany w języku Clipper. 
+Bazując na dokumentach zarejestrowanych w programie P_Firma oraz SH_Firma, przygotowuje pełne rozliczenie produkcji za wybrany okres. 
+Dla każdego produktu objętego okresem rozliczeniowym program określa wyprodukowaną ilość produktu, ilość i koszt zużytych surowców oraz wylicza zysk wynikający z produkcji. 
+Raport w formacie wygodnym dla księgowości w celu rozliczania firmy produkcyjnej.

@@ -1,0 +1,5 @@
+Projekt wykonany w języku Kotlin z wykorzystaniem srodowiska AndroidStudio oraz bazy FIREBASE . 
+Dedykowany na smartfony z systemem Android (API nie starsze niż 26).
+Program umożliwia definiowanie dowolnej ilości użytkowników - rejestracja i logowanie w Firebase.
+Dla każdego użytkownika dostępna jest odrębna baza sklepów, którą użytkownik może rozwijać.
+Dane przesyłane są w formacie JSON.

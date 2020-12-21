@@ -1,0 +1,5 @@
+W pełni autorski program napisany w języku Clipper. 
+Obsługuje bazę towarów handlowych oraz kontrahentów. 
+Udostępnia proste mechanizmy tworzenia i rejestracji dokumentów zakupu i sprzedaży. 
+Utrzymuje kontrolę stanów magazynowych w systemie jedno lub wielomagazynowym oraz dostarcza pakiet wydruków z analizami.
+Współpracuje z programami M_Firma (rozbudowa funkcji magazynowych) oraz z programem P_Firma (obsługa produkcji).

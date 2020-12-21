@@ -1,0 +1,3 @@
+W pełni autorski program napisany w języku Clipper. 
+Wprowadza obsługę dokumentów magazynowych, w szczególności przyjęcia i wydania magazynowe (PZ/WZ) oraz przesunięcia międzymagazynowe.
+Współpracuje z programem SH_Firma (dokumenty handlowe) oraz z programem P_Firma (produkcja).

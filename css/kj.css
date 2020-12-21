@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.navbar
+{
+	min-height=57px;
+}
+
+.kj-bg-black
+{
+	background-color: #000000 !important;
+}
+
+.kj-bg-navy
+{
+	background-color: #000080 !important;
+}
+
+
+
+.kj-color-white a {
+    background: #000000;
+    color: #ffffff !important;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
+     border: 1px solid #424242;
+}
+
+.kj-color-white a:hover {
+    background: #2F4F4F;
+    color: #ffffff !important;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
+    border: 1px solid #800000;
+    border-radius: 3px;
+}
+
+.yellow {
+    background-color: #ffff00;
+    height: 300px;
+    position: relative;
+}
+
+.nav-item{
+	font-size: 45px;
+}

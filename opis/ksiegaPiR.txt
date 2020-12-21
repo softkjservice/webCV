@@ -1,0 +1,6 @@
+W pełni autorski program napisany w języku Clipper na zlecenie Biura Rachunkowego.
+Umożliwia zdefiniowanie dowolnej ilości firm, dla każdej tworzy odrębne pliki bazy danych zapewniając absolutną separację.
+Dane można wprowadzać ręcznie lub importować w kilku standardach. 
+Dwa odrębne tryby wydruku dokumentów - dla drukarek A3 oraz A4. Poza tabulogramem dostępne wydruki rejestrów VAT (zakupu i sprzedaży), wyposażenia oraz elementów amortyzacji jednorazowej. 
+Dostępna obsługa deklaracji PIT-5 oraz VAT-7.
+Program na bieżąco aktualizowany do bieżących przepisów, eksploatowany przez okres kilkunastu lat do obsługi ok. 70 firm.

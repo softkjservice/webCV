@@ -1,0 +1,41 @@
+FrontPage
+Backend
+Strona RWD (Responsive Web Design) 
+
+Program ListaTowarów jest interaktywną aplikacją webową.
+Prezentuje w formie tabeli zapisane w bazie towary, umożliwia szybkie wyszukiwanie, indeksowanie według dowolnej kolumny, dodawanie, edycję oraz kasowanie pozycji. 
+Nad prawidłowością wprowadzanych (edytowanych) danych czuwa rozbudowany system walidacji.
+FrontPage wykonany z wykorzystaniem bibliotek jQuery i bootstrap oraz wtyczki modal.
+
+
+www.iluobiznes.pl
+class="navbar-toggler" type="button" data-toggle="collapse"
+
+Strona internetowa w technologii Responsive Web Design z wykorzystaniem biblioteki bootstrap. 
+Semantyka zgodna z HTML5. 
+Nawigacja z wykorzystaniem navbara z aktywnym klawiszem "collapse" oraz wyszukiwarką.
+Interakcja z użytkownikiem -  formularz kontaktowy.
+
+vebCV
+Prezentacja internetowa wykonana w technologii Single Page Application (SPA) z wykorzystaniem Framework - jQuery oraz bootstrap. 
+Poza podstawowymi informacjami typowymi dla CV daje możliwość szerszego zaprezentowania swoich dotychczasowych osiągnięć, prezentując je w formie stronicowanej tabeli z szybką wyszukiwarką.
+Każda pozycja tabeli daje dostęp do szerszego opisu projektu oraz do linków z nim związanych, np. w przypadku programistów do tekstów źródłowych na GitHubie.
+Backend w języku PHP.
+Komunikacja z serwerem z wykorzystaniem techniki AJAX oraz formatu JSON
+Layout dedykowany głównie na smartfony.
+
+C:\Users\softkj\AndroidStudioProjects\MyShops02 
+Projekt wykonany w języku Kotlin z wykorzystaniem srodowiska AndroidStudio oraz bazy FIREBASE . 
+Dedykowany na smartfony z systemem Android (API nie starsze niż 26).
+Program umożliwia definiowanie dowolnej ilości użytkowników - rejestracja i logowanie w Firebase.
+Dla każdego użytkownika dostępna jest odrębna baza sklepów, którą użytkownik może rozwijać.
+Dane przesyłane są w formacie JSON.
+
+iluoOpis - wtyczka do ILUOBiznes
+
+IluoOpis rozbudowuje znany na rynku polskim pogram do obsługi firm o nową funkcjonalność. 
+Napisany w języku c#, operuje na bazie MSSQL. 
+Analizuje opisy pozycji wszystkich zarejestrowanych dokumentów i pozwala wyszukać w nich wybrane frazy. 
+Wynik prezentuje w formie tabeli z informacją o nazwie pozycji i dokumencie zawierającym poszukiwaną frazę.
+Setup aplikacji w formacie XML.
+ 

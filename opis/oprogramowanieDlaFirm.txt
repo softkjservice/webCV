@@ -1,0 +1,8 @@
+W pełni autorski program do obsługi małych i średnich firm. 
+Kilkadziesiąt wdrożeń całego systemu lub jego części. 
+W skład systemu wchodzi program magazynowy z bazą towarów, kontrahentów oraz pełnym obiegiem dokumentów handlowych. 
+Moduł zapewnia kontrolę stanów magazynowych w systemie jedno lub wielomagazynowym, udostępnia liczne wydruki analityczne oparte na zarejestrowanych dokumentach.
+Kolejnym elementem systemu jest Księga Przychodów i Rozchodów z obsługą rejestrów VAT zakupu i sprzedaży. Księga importuje dokumenty handlowe z programu magazynowego oraz umożliwia ręczne wprowadzanie pozostałych pozycji.
+Pakiet uzupełnia prosty moduł kasowy odpowiedzialny za rejestrację i wydruk operacji gotówkowych.
+Poszczególne moduły mogą pracować niezależnie lub mogą być ze sobą zintegrowane.
+Oprogramowanie napisane w języku Clipper. Łącznie 87 256 linii kodu zapisane w 26 plikach z podziałem na 1409 fukcji i procedur.

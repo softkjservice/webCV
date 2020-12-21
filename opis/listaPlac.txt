@@ -1,0 +1,4 @@
+W pełni autorski program napisany w języku Clipper na zlecenie Biura Rachunkowego.
+Umożliwia zdefiniowanie dowolnej ilości firm tworząc dla każdej z nich odrębne pliki bazy danych zapewniając absolutną ich separację.
+W każdej firmie można obsługiwać dowolną ilość pracowników i tworzyć odpowiednie dla nich dokumenty.
+Podstawowe funkcjonalności to poza listą płac również karty pracownicze, bilans miesiąca, rozliczenie składek ZUS, przelewy do ZUS oraz PIT-11.

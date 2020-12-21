@@ -1,0 +1,5 @@
+IluoOpis rozbudowuje znany na rynku polskim pogram do obsługi firm o nową funkcjonalność. 
+Napisany w języku c#, operuje na bazie MSSQL. 
+Analizuje opisy pozycji wszystkich zarejestrowanych dokumentów i pozwala wyszukać w nich wybrane frazy. 
+Wynik prezentuje w formie tabeli z informacją o nazwie pozycji i dokumencie zawierającym poszukiwaną frazę.
+Setup aplikacji w formacie XML.

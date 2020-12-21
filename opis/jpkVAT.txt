@@ -1,0 +1,3 @@
+Program napisany w języku c# wykonany na zlecenie biura rachunkowego.
+Umożliwia zdefiniowanie dowolnej ilości firm. Dla każdej zaznaczonej firmy pobiera odpowiednie dane z programu księgowego i ganeruje plik JPK VAT w formacie XML zgodnym z wymaganiami MF.
+Proces przebiega automatycznie dla wszystkich zaznaczonych firm. Dla firm rozproszonych istnieje możliwość scalania wygenerowanego w systemie pliku JPK z plikami w formacie XML wygenerowanymi w innych systemach.

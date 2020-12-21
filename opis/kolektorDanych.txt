@@ -1,0 +1,5 @@
+Program napisany w języku c# z wykorzystaniem wielowątkowości. 
+Główna funkcjonalność polega na przechwyceniu strumienia danych z kolektora, zmapowaniu go i umieszczeniu w odpowiednim formacie w przestrzeni akceptowalnej przez program magazynowy.
+Istnieje możliwość wyboru programu magazynowego. Aktualna wersja obsługuje programy: COMARCH, WF-Mag oraz ILUO Biznes.
+Program zabezpieczony jest kluczem w postaci dedykowanego pendrive z pustą przestrzenią dyskową do dowolnego wykorzystania.
+Z programem współpracuje odrębny system szyfrowania klucza (również napisany w c#).

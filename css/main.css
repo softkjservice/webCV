@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+.menu{
+	background: #CFD8DC;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.fotka{
+	background-color: #37474F;
+}
+.tytul{
+	background-color: #B0BEC5;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+.button1 {
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body{
+	background-color: #CFD8DC;
+}
+.lewa{
+	color: white;
+	font-size: 35px;
+	background-color: #37474F;
+}
+hr{
+	height: 5px;
+	background: gray;
+	border: 0px;"
+}
+
+.btn01{
+	font-size: 50px;
+	color: #37474F;
+	font-weight: 500;
+	
+
+	
+	text-decoration: none;
+	background: #CFD8DC;
+	padding: 5px 18px 5px 18px;
+	display: inline-block;
+	
+	margin: 0px 0px 0px 0px;
+}
+.btn01:hover {
+	color: white;
+	background: #424242;
+	
+	transition: all 0.4s ease 0s;
+}
+.opis{
+	font-size: 50px;
+}
+.opisTyt{
+	font-size: 70px;
+	font-weight: 700; 
+}
+
+.div_black{
+	font-size: 8px;
+	background: #000000;
+}
+.left{
+	text-align: left;
+}

@@ -1,0 +1,4 @@
+W pełni autorski program napisany w języku Clipper. 
+Udostępnia bazę pracowników firmy, krajów objętych delegacjami, wykorzystywanych przejść granicznych, walut oraz ich kursów.
+Posiada wbudowane algorytmy rozliczania delegacji krajowych i delecacji zagranicznych. W przypadku tych ostatnich wymagane jest wprowadzenie kraju docelowego oraz precyzyjnej godziny przekraczania poszczególnych granic.
+Na tej podstawie wyliczany jest czas pobytu pracownika w każdym z krajów, co daje podstawę do ścisłego określenia należnej diety.

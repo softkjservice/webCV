@@ -1,0 +1,69 @@
+{
+  "data": [
+    [
+      "1",
+      "Oprogramowanie dla firm"
+    ],
+     [
+      "2",
+      "Księga P.i R. dla biur rachunkowych"
+    ],
+     [
+      "3",
+      "Lista Płac dla biur rachunkowych"
+    ],
+     [
+      "4",
+      "Generator plików JPK VAT"
+    ],  
+	[
+      "5",
+      "Interaktywna lista towarów"
+    ],
+    [
+      "6",
+      "Responsywna strona internetowa"
+    ],
+    [
+      "7",
+      "Prezentacja webCV (SPA)"
+    ],
+    [
+      "8",
+      "Aplikacja na Androida"
+    ],
+    [
+      "9",
+      "Wtyczka do ILUOBiznes"
+    ],
+    [
+      "10",
+      "Data collector interface"
+    ],
+    [
+      "11",
+      "ILUO Konwerter"
+    ],
+    [
+      "12",
+      "Program handlowy"
+    ],
+    [
+      "13",
+      "Program magazynowy"
+    ],
+     [
+      "14",
+      "Program produkcyjny "
+    ],
+     [
+      "15",
+      "Analiza procesów produkcyjnych "
+    ],
+    [
+      "16",
+      "Rozliczenie delegacji"
+    ]
+    
+  ]
+}
